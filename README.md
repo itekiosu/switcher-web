@@ -1,3 +1,5 @@
+# NO LONGER USED
+
 # switcher-web
 
 Fast web server written in Python & Quart for providing the switcher with up to date hosts.
